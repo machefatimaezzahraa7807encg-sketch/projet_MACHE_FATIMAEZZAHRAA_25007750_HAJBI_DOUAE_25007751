@@ -5,7 +5,7 @@
 | **Module** | Intelligence Artificielle  |
 | **Filière** | Contrôle, Audit et Conseil  - Semestre 8 |
 | **Encadrant** |M. Abderrahim Larhlimi |
-| **Date** | 17 Mars 2026 |
+| **Date** | 24 Mars 2026 |
 | **Elaborée par** | MACHE FATIMAEZZAHRAA 25007750 HAJBI DOUAE 25007751|
 
 ## Table des matières
